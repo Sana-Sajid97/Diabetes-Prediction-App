@@ -22,3 +22,6 @@ Try the app live here: [Open Diabetes Prediction App](https://myhackathondemo.lo
 3. Install dependencies:  
    ```bash
    pip install streamlit
+   
+   streamlit run app.py
+
