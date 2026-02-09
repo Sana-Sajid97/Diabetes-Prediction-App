@@ -10,7 +10,7 @@ This is a simple Streamlit app that predicts whether a person is likely to have 
 
 ## Live App
 
-Try the app live here: [Open Diabetes Prediction App](https://myhackathondemo.loca.lt)
+Try the app live here: (https://myhackathondemo.loca.lt)
 
 > ⚠️ Note: This link is temporary and works only while the Colab session is active.  
 > For permanent hosting, consider deploying on Streamlit Cloud or Heroku.
